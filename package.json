@@ -20,12 +20,12 @@
     "@types/morgan": "^1.9.10",
     "@types/ms": "^2.1.0",
     "@types/multer": "^2.0.0",
-    "@types/node": "^24.9.2",
     "tsc-alias": "^1.8.16",
     "tsx": "^4.20.5",
     "typescript": "^5.9.3"
   },
   "dependencies": {
+    "@types/node": "^22.16.0",
     "argon2": "^0.44.0",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
